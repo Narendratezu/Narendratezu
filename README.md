@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Artificial Intelligence Engineer | AI/ML | Generative AI | LLMs | Agentic AI</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44065405/111357396-4762fb00-86af-11eb-9e10-a85de2046614.gif" width="100%" />
+  <img src="https://github.com/NarendraTezu/image/blob/main/AIEng.png" width="100%" />
 </p>
 
 ---
