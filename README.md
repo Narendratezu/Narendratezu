@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Narendra Yadav</h1>
 <h3 align="center">🚀 Artificial Intelligence Engineer | Generative AI | LLMs | Agentic AI | NLP</h3>
 
+<!-- <p align="center">
+  <img src="https://github.com/NarendraTezu/image/blob/main/AIEng.png" width="100%" />
+</p> -->
+
 <!-- Contact / Quick Links -->
 <p align="center">
   <a href="mailto:narendra.tezu18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
